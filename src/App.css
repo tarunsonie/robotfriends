@@ -1,0 +1,9 @@
+header {
+	font-family: 'Ultra', serif;
+	text-shadow: 2px 2px 10px black;
+	color: #0ccac4;
+}
+
+header:hover{
+	text-shadow: 3px 3px 10px red;
+}
